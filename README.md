@@ -11,7 +11,7 @@ The purpose of this challenge is to compare the June and December temperatures i
 
 **Three major points:**
 
-* The highs max temperature in June and December are both in the 80s (83 in December and 85 in June), which are both sufficiently hot enough for ice cream and surfing
+* The max temperature in June and December are both in the 80s (83 in December and 85 in June), which are both sufficiently hot enough for ice cream and surfing
 * The low in December is 56  which is teetering on the lower edge of surfing and ice cream weather, but both can still be enjoyed at that temperature
 * The average temperatures are both in the 70s which is perfect for ice cream and surfing
 
